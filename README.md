@@ -119,6 +119,6 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasJolyMussi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasJolyMussi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 </p>
