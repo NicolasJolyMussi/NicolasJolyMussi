@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nícolas Mussi
+# 👨‍💻 Nícolas Mussi
 
 **`Desenvolvedor FullStack / Estudante de Engenharia de Software`**
 
