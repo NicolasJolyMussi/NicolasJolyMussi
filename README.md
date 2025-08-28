@@ -79,8 +79,18 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
     title="C#"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
 
+<img
+    align="left"
+    alte="Json"
+    title="Json"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
+/>
+          
 <img 
     align="left" 
     alt="Python" 
