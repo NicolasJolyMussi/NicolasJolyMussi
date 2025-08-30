@@ -101,15 +101,6 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
 />
           
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
 <br/>
 <br/>
 
