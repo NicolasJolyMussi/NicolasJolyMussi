@@ -19,10 +19,10 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
             src="https://custom-icon-badges.demolab.com/badge/-Meu Linkedin-teal?style=for-the-badge&logo=repo-template&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/NicolasJolyMussi?tab=followers">
+    <a href="https://nicolasjolymussi.github.io/Portfolio-Nicolas/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Prtfolio" 
+            title="De uma olhada no meu Portfólio😁" 
             src="https://custom-icon-badges.demolab.com/github/followers/NicolasJolyMussi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
