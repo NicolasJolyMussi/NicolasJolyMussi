@@ -23,7 +23,7 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
         <img 
             alt="Prtfolio" 
             title="De uma olhada no meu Portfólio😁" 
-            src="https://custom-icon-badges.demolab.com/github/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Portfolio&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/NicolasJolyMussi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Portfólio&logoColor=white"
         />
     </a>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrjFGsWXNqZRMlfDMTBLdtqrSjMrKpnQXWqWtkmxHCCqZQSHclvwLKxHFjbpdPfpkNwnxq">
