@@ -100,7 +100,7 @@ Me chamo Nícolas Joly Mussi, com formação técnica em Desenvolvimento de Sist
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
           
-
+</br>
 
 
 ---
